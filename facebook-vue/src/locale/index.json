@@ -1,0 +1,50 @@
+{
+    "en": {
+        "facebook":"Connect to Facebook ",
+        "email":"Email required.",
+        "format":"Format is invalid.",
+        "passwordError":"Password required.",
+        "passwordLength":"Password should contain at least 6 caracters.",
+        "passwordSymbol":"The password should contain a special caracter",
+        "passwordForgot":"Forgot password?",
+        "or":"or",
+        "newAccount":"Create a new account",
+        "enterMail":"Enter your email",
+        "enterForgetMail":"Enter your mail to receive a message",
+        "enterPassword":"Enter your password",
+        "confirmPassword":"confirm your password",
+        "footer":"A little login of facebook",
+        "EnterInformations":"Enter Informations for your new account",
+        "FirstName":"First name required",
+        "LastName":"Last name required",
+        "confirmPasswordError":"Password does not match the first value"
+    },
+
+
+
+    
+
+    "fr": {
+        "facebook":"se connecter Facebook",
+        "email":"Email requis.",
+        "format":"Format de l'email invalide.",
+        "passwordError":"Mot de passe requis.",
+        "passwordLength":"Le mot de passe doit contenir au moins 6 caractères.",
+        "passwordSymbol":"Le mot de passe doit contenir au moins un symbole spécial.",
+        "passwordForgot":"Mot de passe oublié ?",
+        "or":"ou",
+        "newAccount":"Creer un nouveau compte",
+        "enterMail":"Entrer votre mail",
+        "enterForgetMail":"Entrer votre mail pour recevoir un message",
+        "enterPassword":"Entrer votre mot de passe",
+        "confirmPassword":"confirmer votre mot de passe",
+        "footer":"Un petit login facebook",
+        "EnterInformations":"Entrer vos informations",
+        "FirstName":"Nom requis",
+        "LastName":"Prenom requis",
+        "confirmPasswordError":"Le mot de passe ne correspond pas a celui entree"
+
+
+
+    }
+}
